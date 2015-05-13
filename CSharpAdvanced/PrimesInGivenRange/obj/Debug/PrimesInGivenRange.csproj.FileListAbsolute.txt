@@ -1,0 +1,5 @@
+c:\users\ico\documents\visual studio 2013\Projects\CSharpAdvanced\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.exe.config
+c:\users\ico\documents\visual studio 2013\Projects\CSharpAdvanced\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.exe
+c:\users\ico\documents\visual studio 2013\Projects\CSharpAdvanced\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.pdb
+c:\users\ico\documents\visual studio 2013\Projects\CSharpAdvanced\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.exe
+c:\users\ico\documents\visual studio 2013\Projects\CSharpAdvanced\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.pdb

@@ -1,0 +1,5 @@
+c:\Users\Ico\documents\visual studio 2013\Projects\Methods\NumberCalculations\bin\Debug\NumberCalculations.exe.config
+c:\Users\Ico\documents\visual studio 2013\Projects\Methods\NumberCalculations\bin\Debug\NumberCalculations.exe
+c:\Users\Ico\documents\visual studio 2013\Projects\Methods\NumberCalculations\bin\Debug\NumberCalculations.pdb
+c:\Users\Ico\documents\visual studio 2013\Projects\Methods\NumberCalculations\obj\Debug\NumberCalculations.exe
+c:\Users\Ico\documents\visual studio 2013\Projects\Methods\NumberCalculations\obj\Debug\NumberCalculations.pdb

@@ -1,0 +1,6 @@
+c:\users\ico\documents\visual studio 2013\Projects\CSharpAdvanced\CSharpAdvanced\bin\Debug\CSharpAdvanced.exe.config
+c:\users\ico\documents\visual studio 2013\Projects\CSharpAdvanced\CSharpAdvanced\bin\Debug\CSharpAdvanced.exe
+c:\users\ico\documents\visual studio 2013\Projects\CSharpAdvanced\CSharpAdvanced\bin\Debug\CSharpAdvanced.pdb
+c:\users\ico\documents\visual studio 2013\Projects\CSharpAdvanced\CSharpAdvanced\obj\Debug\CSharpAdvanced.csprojResolveAssemblyReference.cache
+c:\users\ico\documents\visual studio 2013\Projects\CSharpAdvanced\CSharpAdvanced\obj\Debug\CSharpAdvanced.exe
+c:\users\ico\documents\visual studio 2013\Projects\CSharpAdvanced\CSharpAdvanced\obj\Debug\CSharpAdvanced.pdb

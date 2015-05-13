@@ -1,0 +1,5 @@
+c:\users\ico\documents\visual studio 2013\Projects\CSharpAdvanced\CountingWordInText\bin\Debug\CountingWordInText.exe.config
+c:\users\ico\documents\visual studio 2013\Projects\CSharpAdvanced\CountingWordInText\bin\Debug\CountingWordInText.exe
+c:\users\ico\documents\visual studio 2013\Projects\CSharpAdvanced\CountingWordInText\bin\Debug\CountingWordInText.pdb
+c:\users\ico\documents\visual studio 2013\Projects\CSharpAdvanced\CountingWordInText\obj\Debug\CountingWordInText.exe
+c:\users\ico\documents\visual studio 2013\Projects\CSharpAdvanced\CountingWordInText\obj\Debug\CountingWordInText.pdb

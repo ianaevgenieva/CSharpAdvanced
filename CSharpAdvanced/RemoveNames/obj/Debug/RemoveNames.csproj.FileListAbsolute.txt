@@ -1,0 +1,1 @@
+c:\users\ico\documents\visual studio 2013\Projects\CSharpAdvanced\RemoveNames\bin\Debug\RemoveNames.exe.config
